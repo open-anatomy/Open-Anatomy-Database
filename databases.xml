@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oad version="0.1"?>
+<DATABASES>
+ <DATABASE> 
+  <NAME>UWH Datenbank</NAME>
+  <WEBSITE>www.open-anatomy.org</WEBSITE>
+  <DATABASE_URL>http://www.open-anatomy.org/database/uwh-database.xml</DATABASE_URL>
+  <OAD_FILE>http://www.open-anatomy.org/oad.xml</OAD_FILE>
+  <LICENSE>cc-4.0-by-nc-sa</LICENSE>  
+ </DATABASE>
+</DATABASES>
