@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oad version="0.1" license ="GPL 3.0" oad_file="http://www.open-anatomy.org/oad.xml" ?>
+<STRUCTURES>
+ <STRUCTURE>
+  <NAME>os_coxae_SfM</NAME>
+  <LATIN_NAME>os coxae</LATIN_NAME>
+  <POSITION>right</POSITION>
+  <FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae.obj</FILE>
+  <FILE_SIZE>17,7 MB</FILE_SIZE>
+  <DESCRIBER_FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae.mtl</DESCRIBER_FILE>
+  <DESCRIBER_FILE_SIZE>0,1 MB</DESCRIBER_FILE_SIZE>
+  <TEXTURE_FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae_texture.png</TEXTURE_FILE>
+  <TEXTURE_FILE_SIZE>2,5 MB</TEXTURE_FILE_SIZE>
+  <SOURCE>SFM</SOURCE>
+  <SOFTWARE>openMVG, openMVS</SOFTWARE>
+  <YEAR>2016</YEAR>
+  <WEIGHT/>
+  <SIZE/>
+  <POLYGON_COUNT>156305</POLYGON_COUNT>
+  <DONOR_ID>1</DONOR_ID>
+ </STRUCTURE>
+ <STRUCTURE>
+  <NAME>scapula_SfM</NAME>
+  <LATIN_NAME>Scapula</LATIN_NAME>
+  <POSITION>left</POSITION>
+  <FILE>http://www.open-anatomy.uni-wh.de/database/scapula.obj</FILE>
+  <FILE_SIZE>14,3 MB</FILE_SIZE>
+  <DESCRIBER_FILE>http://www.open-anatomy.uni-wh.de/database/scapula.mtl</DESCRIBER_FILE>
+  <DESCRIBER_FILE_SIZE>0,1 MB</DESCRIBER_FILE_SIZE>
+  <TEXTURE_FILE>http://www.open-anatomy.uni-wh.de/database/scapula.jpg</TEXTURE_FILE>
+  <TEXTURE_FILE_SIZE>1,4 MB</TEXTURE_FILE_SIZE>
+  <SOURCE>SFM</SOURCE>
+  <SOFTWARE>openMVG, openMVS</SOFTWARE>
+  <YEAR>2016</YEAR>
+  <WEIGHT/>
+  <SIZE/>
+  <POLYGON_COUNT>126335</POLYGON_COUNT>
+  <DONOR_ID>2</DONOR_ID>
+ </STRUCTURE>
+ <DONOR>
+  <ID>1</ID>
+  <AGE>UNKNOWN</AGE>
+  <GENDER>UNKNOWN</GENDER>
+  <PRECONDITIONS>UNKNOWN</PRECONDITIONS>
+ </DONOR>
+ <DONOR>
+  <ID>2</ID>
+  <AGE>UNKNOWN</AGE>
+  <GENDER>UNKNOWN</GENDER>
+  <PRECONDITIONS>UNKNOWN</PRECONDITIONS>
+ </DONOR>
+ </STRUCTURES>
