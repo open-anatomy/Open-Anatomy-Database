@@ -5,11 +5,11 @@
   <NAME>os_coxae_SfM</NAME>
   <LATIN_NAME>os coxae</LATIN_NAME>
   <POSITION>right</POSITION>
-  <FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae.obj</FILE>
+  <FILE>http://open-anatomy.uni-wh.de/database/os_coxae.obj</FILE>
   <FILE_SIZE>17,7 MB</FILE_SIZE>
-  <DESCRIBER_FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae.mtl</DESCRIBER_FILE>
+  <DESCRIBER_FILE>http://open-anatomy.uni-wh.de/database/os_coxae.mtl</DESCRIBER_FILE>
   <DESCRIBER_FILE_SIZE>0,1 MB</DESCRIBER_FILE_SIZE>
-  <TEXTURE_FILE>http://www.open-anatomy.uni-wh.de/database/os_coxae_texture.png</TEXTURE_FILE>
+  <TEXTURE_FILE>http://open-anatomy.uni-wh.de/database/os_coxae_texture.jpg</TEXTURE_FILE>
   <TEXTURE_FILE_SIZE>2,5 MB</TEXTURE_FILE_SIZE>
   <SOURCE>SFM</SOURCE>
   <SOFTWARE>openMVG, openMVS</SOFTWARE>
@@ -23,11 +23,11 @@
   <NAME>scapula_SfM</NAME>
   <LATIN_NAME>Scapula</LATIN_NAME>
   <POSITION>left</POSITION>
-  <FILE>http://www.open-anatomy.uni-wh.de/database/scapula.obj</FILE>
+  <FILE>http://open-anatomy.uni-wh.de/database/scapula.obj</FILE>
   <FILE_SIZE>14,3 MB</FILE_SIZE>
-  <DESCRIBER_FILE>http://www.open-anatomy.uni-wh.de/database/scapula.mtl</DESCRIBER_FILE>
+  <DESCRIBER_FILE>http://open-anatomy.uni-wh.de/database/scapula.mtl</DESCRIBER_FILE>
   <DESCRIBER_FILE_SIZE>0,1 MB</DESCRIBER_FILE_SIZE>
-  <TEXTURE_FILE>http://www.open-anatomy.uni-wh.de/database/scapula.jpg</TEXTURE_FILE>
+  <TEXTURE_FILE>http://open-anatomy.uni-wh.de/database/scapula_texture.jpg</TEXTURE_FILE>
   <TEXTURE_FILE_SIZE>1,4 MB</TEXTURE_FILE_SIZE>
   <SOURCE>SFM</SOURCE>
   <SOFTWARE>openMVG, openMVS</SOFTWARE>

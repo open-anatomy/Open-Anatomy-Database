@@ -2,10 +2,10 @@
 <?oad version="0.1"?>
 <DATABASES>
  <DATABASE> 
-  <NAME>UWH Datenbank</NAME>
-  <WEBSITE>http://open-anatomy.uni-wh.de</WEBSITE>
-  <DATABASE_URL>http://open-anatomy.uni-wh.de/database/uwh-database.xml</DATABASE_URL>
+  <NAME>Universität Witten-Herdecke</NAME>
+  <WEBSITE>http://www.open-anatomy.uni-wh.de</WEBSITE>
+  <DATABASE_URL>http://open-anatomy.uni-wh.de/database/database.xml</DATABASE_URL>
   <OAD_FILE>http://www.open-anatomy.org/oad.xml</OAD_FILE>
-  <LICENSE>cc-4.0-by-nc-sa</LICENSE>  
+  <LICENSE>GPL 3.0</LICENSE>  
  </DATABASE>
 </DATABASES>
